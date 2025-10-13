@@ -8,3 +8,5 @@ git push [alias] [branch-name]
 Carrega els commits local al repositori remoto
 git clone [url]
 Descarrega un projecte remoto
+
+VERSIÓN 2 PAU FERRER
