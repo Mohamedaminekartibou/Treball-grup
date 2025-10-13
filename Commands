@@ -1,10 +1,2 @@
 git fetch [bookmark]
-Descarrega tot l’historial del repositori remoto al repositorio local
-git merge [bookmark]/[branch-name]
-Combina la branca del marcador amb la branca local actual
-git pull [bookmark]
-Descarrega l’historial remot i afegeix localment els canvis (fetch + merge)
-git push [alias] [branch-name]
-Carrega els commits local al repositori remoto
-git clone [url]
 Descarrega un projecte remoto
